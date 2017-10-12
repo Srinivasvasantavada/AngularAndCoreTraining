@@ -1,0 +1,2 @@
+# AngularAndCoreTraining
+Training Solution
